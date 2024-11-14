@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": {
+    ".env.*": "env"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "liveServer.settings.port": 5502
+}
